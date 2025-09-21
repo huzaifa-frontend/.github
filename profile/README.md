@@ -221,8 +221,8 @@ I'm passionate about frontend development and always eager to:
 
 [![🎨 Frontend](https://img.shields.io/badge/🎨_Frontend-huzaifa--frontend-blue?style=for-the-badge)](https://github.com/huzaifa-frontend)
 [![⚡ Full Stack](https://img.shields.io/badge/⚡_Full_Stack-huzaifa--fullstack-green?style=for-the-badge)](https://github.com/huzaifa-fullstack)
-[![🎮 Game Dev](https://img.shields.io/badge/🎮_Game_Dev-huzaifa--gamedev-purple?style=for-the-badge)](https://github.com/huzaifa-gamedev)
-[![📚 Resources](https://img.shields.io/badge/📚_Vault-huzaifa--vault-orange?style=for-the-badge)](https://github.com/huzaifa-vault)
+[![🎮 Game Dev](https://img.shields.io/badge/🎮_Game_Dev-huzaifa--gamedev-orange?style=for-the-badge)](https://github.com/huzaifa-gamedev)
+[![📚 Resources](https://img.shields.io/badge/📚_Vault-huzaifa--vault-purple?style=for-the-badge)](https://github.com/huzaifa-vault)
 
 ---
 
