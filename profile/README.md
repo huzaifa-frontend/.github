@@ -1,4 +1,4 @@
-# 🎨 Huzaifa Frontend
+<h1 align="center">🎨 Huzaifa Frontend</h1>
 
 <div align="center">
 
