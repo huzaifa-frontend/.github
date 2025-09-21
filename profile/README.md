@@ -149,7 +149,7 @@ Welcome to my frontend development showcase! This organization represents my jou
 
 ---
 
-### 🛒 **TechStoreX E-commerce Interface**
+### 🛒 **TechStoreX**
 > **Interactive e-commerce demo with advanced JavaScript features**
 - **Features**: Product filtering, shopping cart, dynamic UI interactions
 - **Tech Stack**: Vanilla JavaScript, CSS3, DOM manipulation
