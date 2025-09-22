@@ -254,7 +254,7 @@ I'm passionate about frontend development and always eager to:
 
 ---
 
-*Crafting exceptional frontend experiences, one component at a time* ✨
+*Transforming ideas into sleek, responsive, and interactive designs* ✨
 
 <!-- Footer -->
 <p align="center">
