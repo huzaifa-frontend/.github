@@ -171,7 +171,7 @@ Welcome to my frontend development showcase! This organization represents my jou
 
 ---
 
-## 📈 Project Categories & Skills Demonstrated
+## 📈 Frontend Development Categories & Skills Demonstrated
 
 | **Category** | **Projects** | **Key Skills** |
 |---|---|---|
