@@ -122,11 +122,12 @@ Welcome to my frontend development showcase! This organization represents my jou
 
 ## 📂 Featured Projects
 
-### 🍋 **Little Lemon Restaurant App**
+### 🍋 **Little Lemon App**
 > **A complete Mediterranean restaurant web application with modern UX**
 - **Features**: Interactive menu system, table booking, responsive design
 - **Tech Stack**: React, Material UI, Form validation, Responsive layouts
 - **Highlights**: Smooth animations, accessibility features, mobile-first approach
+- **Live Demo**: [little-lemon-app-indol.vercel.app](https://little-lemon-app-indol.vercel.app/)
 - [**🔗 View Repository**](https://github.com/huzaifa-frontend/little-lemon-app)
 
 ---
@@ -136,6 +137,7 @@ Welcome to my frontend development showcase! This organization represents my jou
 - **Features**: Clean design, interactive animations, contact form validation
 - **Tech Stack**: React, Formik, Yup validation, Framer Motion
 - **Highlights**: Performance optimized, SEO-friendly, cross-browser compatible
+- **Live Demo**: [react-portfolio-practice-theta.vercel.app](https://react-portfolio-practice-theta.vercel.app/)
 - [**🔗 View Repository**](https://github.com/huzaifa-frontend/react-portfolio-practice)
 
 ---
@@ -145,6 +147,7 @@ Welcome to my frontend development showcase! This organization represents my jou
 - **Features**: Dark/Light mode, localStorage persistence, smooth animations
 - **Tech Stack**: Vite, React, Tailwind CSS, React Hooks
 - **Highlights**: Lightning-fast build times, optimized bundle size, modern tooling
+- **Live Demo**: [vite-react-counter-iota.vercel.app](https://vite-react-counter-iota.vercel.app/)
 - [**🔗 View Repository**](https://github.com/huzaifa-frontend/vite-react-counter)
 
 ---
@@ -154,6 +157,7 @@ Welcome to my frontend development showcase! This organization represents my jou
 - **Features**: Product filtering, shopping cart, dynamic UI interactions
 - **Tech Stack**: Vanilla JavaScript, CSS3, DOM manipulation
 - **Highlights**: No framework dependencies, efficient algorithms, clean architecture
+- **Live Demo**: [huzaifa-frontend.github.io/techstorex-javascript](https://huzaifa-frontend.github.io/techstorex-javascript/)
 - [**🔗 View Repository**](https://github.com/huzaifa-frontend/techstorex-javascript)
 
 ---
