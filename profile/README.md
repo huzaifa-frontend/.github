@@ -149,11 +149,11 @@ Welcome to my frontend development showcase! This organization represents my jou
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <!-- <td align="center" width="60">
       <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
         <img src="https://lottiefiles.com/favicon.ico" alt="Lottie" width="40" height="40"/>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
